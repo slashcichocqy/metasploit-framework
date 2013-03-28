@@ -4,6 +4,7 @@ Metasploit
 The Metasploit Framework is released under a BSD-style license. See
 COPYING for more details.
 
+
 The latest version of this software is available from http://metasploit.com/
 
 Bug tracking and development information can be found at:
